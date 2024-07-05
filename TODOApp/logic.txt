@@ -1,0 +1,36 @@
+- Save what user todo today 
+
+- Welcome the user 
+- ask the user for how many things he need to make today 
+- Store this in array 
+- check if he finished one of theses things 
+- if yes remove it from the array then add it in finished array 
+
+
+Functions : 
+Welcome 
+AddTask
+MoveTask
+
+
+Tasks (Array)
+FinishedTasks(Array)
+
+
+Steps : 
+Welcome User then ask him for his name.
+
+Display list of Finished tasks and unfinished tasks 
+
+if he choose Finished tasks -> make another if if it's 0
+Display Message (There is no tasks yet)
+then ask him if he want to add a task 
+if yes Then redirect him to add task if no back him to the main Menu..
+
+if he choose finished tasks then if finished task len = 0 
+then display message that there is no finished tasks wanna finished a task 
+if yes redirect him to Finished task screen 
+else back him to the menu
+
+
+

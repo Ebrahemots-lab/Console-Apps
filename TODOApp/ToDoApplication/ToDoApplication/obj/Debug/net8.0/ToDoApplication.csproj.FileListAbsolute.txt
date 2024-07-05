@@ -1,0 +1,14 @@
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\bin\Debug\net8.0\ToDoApplication.exe
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\bin\Debug\net8.0\ToDoApplication.deps.json
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\bin\Debug\net8.0\ToDoApplication.runtimeconfig.json
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\bin\Debug\net8.0\ToDoApplication.dll
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\bin\Debug\net8.0\ToDoApplication.pdb
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.AssemblyInfoInputs.cache
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.AssemblyInfo.cs
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.dll
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\refint\ToDoApplication.dll
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.pdb
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.genruntimeconfig.cache
+D:\Diploma\C#\Projects\TODOApp\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ref\ToDoApplication.dll

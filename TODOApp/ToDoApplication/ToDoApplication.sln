@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApplication", "ToDoApplication\ToDoApplication.csproj", "{E35B5047-694F-4F90-9EF0-6D4AF599C616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangMan", "..\..\HangMan\HangMan\HangMan.csproj", "{1DEA81BE-03C7-431E-9A46-3DA0DB08B796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E35B5047-694F-4F90-9EF0-6D4AF599C616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35B5047-694F-4F90-9EF0-6D4AF599C616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35B5047-694F-4F90-9EF0-6D4AF599C616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35B5047-694F-4F90-9EF0-6D4AF599C616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEA81BE-03C7-431E-9A46-3DA0DB08B796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEA81BE-03C7-431E-9A46-3DA0DB08B796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEA81BE-03C7-431E-9A46-3DA0DB08B796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEA81BE-03C7-431E-9A46-3DA0DB08B796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B5131E-35EA-41BA-86CC-A9584AF6E809}
+	EndGlobalSection
+EndGlobal

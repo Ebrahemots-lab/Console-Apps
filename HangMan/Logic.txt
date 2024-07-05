@@ -1,0 +1,27 @@
+--
+please wait 3 seconds to lead the game 
+
+
+Welcome the user 
+Number of tries = 7 
+word = "ebrahem"
+string[] checkedArray = [- - - a - - -]
+
+enter a charcter : a
+
+Method(charcetr) => compare this chater to the actual word and return it's index
+
+counter => count how many charcters added to checked Array
+
+Loop until he complete all charcters or number of tries = 0 
+
+
+
+
+
+- ask the user to enter a charcter 
+- loop untill the number of tries = 0 or he finished the word
+
+
+
+
